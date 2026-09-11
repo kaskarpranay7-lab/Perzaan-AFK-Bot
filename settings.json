@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Subscriber_only.aternos.me",
-    "port": 49950,
+    "ip": "Subscriber_Only01.aternos.me",
+    "port": 58642,
     "version": "1.21.1"
   },
   "position": {
